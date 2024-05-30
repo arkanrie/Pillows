@@ -69,6 +69,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 let products = [
     {
+
+          
         id: 1,
         name: "ZephyrDreams Pillow",
         image: "ZEPHYR.jpg",
@@ -95,7 +97,7 @@ let products = [
     {
         id: 5,
         name: "Morpheus Rest",
-        image: "MORPHEEUS.JPG",
+        image: "MORPHEEUS.jpg",
         price: 1400
     },
     {
